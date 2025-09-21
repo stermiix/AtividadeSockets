@@ -1,6 +1,11 @@
 # Socket Math Calculator
 
-Este projeto implementa uma aplicação cliente-servidor em C que utiliza sockets TCP (IPv4) para realizar operações matemáticas. O cliente envia operações matemáticas para o servidor, que as executa e retorna o resultado.
+Este projeto realizado para a matéria de Computação Distribuída implementa uma aplicação cliente-servidor em C que utiliza sockets TCP (IPv4) para realizar operações matemáticas. O cliente envia operações matemáticas para o servidor, que as executa e retorna o resultado.
+
+Feito por:
+
+Bernardo Souza Oliveira RA: 10312871
+Pedro Henrique C. Guimarães RA: 10417477
 
 ## Funcionalidades Implementadas
 
@@ -145,7 +150,3 @@ make test
 make run-server &    # Terminal 1
 make run-client      # Terminal 2
 ```
-
-## Autor
-
-Implementação para atividade de Sistemas Distribuídos - Sockets TCP em C.
